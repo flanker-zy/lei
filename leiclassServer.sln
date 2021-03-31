@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leiclassServer", "leiclassServer.vcxproj", "{E2BA63EF-8439-461A-856D-9F7D306CABEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2BA63EF-8439-461A-856D-9F7D306CABEA}.Debug|x64.ActiveCfg = Debug|x64
+		{E2BA63EF-8439-461A-856D-9F7D306CABEA}.Debug|x64.Build.0 = Debug|x64
+		{E2BA63EF-8439-461A-856D-9F7D306CABEA}.Debug|x86.ActiveCfg = Debug|Win32
+		{E2BA63EF-8439-461A-856D-9F7D306CABEA}.Debug|x86.Build.0 = Debug|Win32
+		{E2BA63EF-8439-461A-856D-9F7D306CABEA}.Release|x64.ActiveCfg = Release|x64
+		{E2BA63EF-8439-461A-856D-9F7D306CABEA}.Release|x64.Build.0 = Release|x64
+		{E2BA63EF-8439-461A-856D-9F7D306CABEA}.Release|x86.ActiveCfg = Release|Win32
+		{E2BA63EF-8439-461A-856D-9F7D306CABEA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18130983-7627-429E-9F23-ED6E84025180}
+	EndGlobalSection
+EndGlobal
